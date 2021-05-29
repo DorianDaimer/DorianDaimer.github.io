@@ -15,8 +15,8 @@ Papers
 ======
 {% for post in site.publications reversed%}
   {% if forloop.index0 == 1 %}
-    {{Theses
-    ======}}
+    Theses
+    ======
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
