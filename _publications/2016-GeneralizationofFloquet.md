@@ -1,7 +1,7 @@
 ---
 title: "Generalization of Floquet Theory"
 collection: publications
-permalink: /publication/2016-GeneralizationofFloquet
+permalink: /publications/2016-GeneralizationofFloquet
 excerpt: 'This Thesis is about a generalization of the Floquet formalism for driven Quantum Systems to non-periodic driving. A theoretical extensions is described and tested on well-known model systems.'
 date: 2016-20-09
 venue: 'Master Thesis in Physics at Imperial College London'
