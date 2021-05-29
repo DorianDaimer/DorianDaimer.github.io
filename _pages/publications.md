@@ -14,9 +14,9 @@ author_profile: true
 Papers
 ======
 {% for post in site.publications reversed %}
-  <!-- {% if forloop.index0 == 1 %}
+  {% if forloop.index0 == 1 %}
     Theses
     ======
-  {% endif %} -->
+  {% endif %}
   {% include archive-single.html %}
 {% endfor %}
