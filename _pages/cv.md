@@ -11,27 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Physics, Humboldt Universität zu Berlin, 2015
-* M.Sc. in Physics (with Distinction), Imperial College London, 2016
 <!-- * M.Sc. in Cognitive Science, Universität Osnabrück, 2020 (expected) -->
 * Ph.D. in Physics, University of Hawai'i at Manoa, expected 2024
+* M.Sc. in Physics (with Distinction), Imperial College London, 2016
+* B.Sc. in Physics, Humboldt Universität zu Berlin, 2015
 
 Work experience
 ======
-* December 2016 - August 2017: Student Intern
-  * Lufthansa Systems
-  * Duties included: Developing a prototype for dynamical pricing of airline seats, model comparison and evaluation, hosting workshops, feature extraction from data
-  * Supervisor: Kurt Schröder
+* January 2021 - July 2021: Research Assistant
+  * University of Hawai'i at Manoa
+  * Duties include: #Performing research on partially observable information engines and their generalization to quantum systems. Assisting with writing publications and creating visualizations. Implement numerical models to optimize data representation strategies in a partially observable Szilard Engine.  
+  * Supervisor: Dr. Susanne Still
+
+* October 2019 - March 2020: Research Assistant
+  * Universität Osnabrück
+  * Duties included: Constructing an affordance data base, scraping ImageNet, leveraging WordNet and visualizations of the results, creation of an online tool to generate data sets
+  * Supervisor: Ashima Keshava
 
 * July 2019 - September 2019: Extreme Blue Intern
   * IBM
   * Duties included: Developing a smart assistant software for medical claim handlers, using NLP to extract events from text, setting up a Flask web application
   * Supervisor: Paul Rinckens
 
-* October 2019 - March 2020: Research Assistant
-  * Universität Osnabrück
-  * Duties included: Constructing an affordance data base, scraping ImageNet, leveraging WordNet and visualizations of the results, creation of an online tool to generate data sets
-  * Supervisor: Ashima Keshava
+* December 2016 - August 2017: Student Intern
+  * Lufthansa Systems
+  * Duties included: Developing a prototype for dynamical pricing of airline seats, model comparison and evaluation, hosting workshops, feature extraction from data
+  * Supervisor: Kurt Schröder
 
 <!-- Skills
 ======
@@ -52,7 +57,7 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
@@ -64,7 +69,7 @@ Publications
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
