@@ -13,7 +13,8 @@ Education
 ======
 * B.Sc. in Physics, Humboldt Universität zu Berlin, 2015
 * M.Sc. in Physics (with Distinction), Imperial College London, 2016
-* M.Sc. in Cognitive Science, Universität Osnabrück, 2020 (expected)
+<!-- * M.Sc. in Cognitive Science, Universität Osnabrück, 2020 (expected) -->
+* Ph.D. in Physics, University of Hawai'i at Manoa, expected 2024
 
 Work experience
 ======
@@ -29,10 +30,10 @@ Work experience
 
 * October 2019 - March 2020: Research Assistant
   * Universität Osnabrück
-  * Duties included: Constructing an affordance data base, scraping ImageNet, leveraging WordNet and visualizations of the results, creation of online tool to generate data sets
+  * Duties included: Constructing an affordance data base, scraping ImageNet, leveraging WordNet and visualizations of the results, creation of an online tool to generate data sets
   * Supervisor: Ashima Keshava
 
-Skills
+<!-- Skills
 ======
 * Quantum Physics
   * Quantum Optics
@@ -47,13 +48,13 @@ Skills
   * R
   * Matlab
 * Basic Neuroscience
-* Deep Learning (Theory and practical implementations)
+* Deep Learning (Theory and practical implementations) -->
 
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
 
 <!-- Talks
 ======

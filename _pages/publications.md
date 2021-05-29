@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+Papers (coming soon)
+======
+{% for post in {site.publications| slice:0} reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+Theses
+======
+{% for post in {site.publications | slice: 1,2} reversed %}
   {% include archive-single.html %}
 {% endfor %}

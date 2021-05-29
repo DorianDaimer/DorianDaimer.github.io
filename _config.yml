@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Dorian Daimer"
-  avatar           : "Profile.jpg"
+  avatar           : "Profile2.jpg"
   bio              : "PhD Student at UH Manoa, working on physical limits of information porcessing"
-  location         : "Berlin, Germany"
+  location         : "Honolulu, Hawaii"
   employer         :
   pubmed           :
-  googlescholar    : 
+  googlescholar    :
   email            : "dorian@daimer.net"
   researchgate     :  "https://www.researchgate.net/profile/Dorian_Daimer2"
   uri              :
@@ -219,14 +219,14 @@ defaults:
       share: true
       comments: true
   # _publications
-  # - scope:
-  #     path: ""
-  #     type: publications
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -237,13 +237,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
