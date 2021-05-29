@@ -13,7 +13,7 @@ author_profile: true
 
 Papers
 ======
-{% for post in site.publications reversed%}
+{% for post in site.publications reversed %}
   {% if forloop.index0 == 1 %}
     Theses
     ======
