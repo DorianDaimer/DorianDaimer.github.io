@@ -20,7 +20,7 @@ Work experience
 ======
 * January 2021 - July 2021: Research Assistant
   * University of Hawai'i at Manoa
-  * Duties include: #Performing research on partially observable information engines and their generalization to quantum systems. Assisting with writing publications and creating visualizations. Implement numerical models to optimize data representation strategies in a partially observable Szilard Engine.  
+  * Duties include: Performing research on partially observable information engines and their generalization to quantum systems. Assisting with writing publications and creating visualizations. Implement numerical models to optimize data representation strategies in a partially observable Szilard Engine.  
   * Supervisor: Dr. Susanne Still
 
 * October 2019 - March 2020: Research Assistant
