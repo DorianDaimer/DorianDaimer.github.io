@@ -1,5 +1,5 @@
 ---
-title: "Electromagnetism Laboratory"
+title: "Electromagnetism Laboratory (Fall 2020)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-fall-teaching-2

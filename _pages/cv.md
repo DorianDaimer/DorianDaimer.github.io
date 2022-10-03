@@ -18,6 +18,11 @@ Education
 
 Work experience
 ======
+* August 2022 - Present: Research Assistant
+  * University of Hawai'i at Manoa
+  * Duties include: Working on the grant Maxwell's demon in the real world: Experiments on the constraints governing information processing. Analysing partially observable information engines and working on their experimental implementation.  
+  * Supervisor: Dr. Susanne Still
+
 * January 2021 - July 2021: Research Assistant
   * University of Hawai'i at Manoa
   * Duties include: Performing research on partially observable information engines and their generalization to quantum systems. Assisting with writing publications and creating visualizations. Implement numerical models to optimize data representation strategies in a partially observable Szilard Engine.  
