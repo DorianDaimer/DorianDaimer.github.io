@@ -2,7 +2,7 @@
 title: "Electromagnetism Laboratory (Academic year 2021)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2021-fall-spring-teaching-4
+permalink: /teaching/2021-fall-teaching-4
 venue: "University of Hawai'i at Manoa, Physics"
 date: 2021-08-01
 location: "Honolulu, Hawaii"
