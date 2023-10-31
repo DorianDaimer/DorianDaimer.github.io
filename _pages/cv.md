@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* August 2022 - Present: Research Assistant
+* August 2022 - July 2023: Research Assistant
   * University of Hawai'i at Manoa
   * Duties include: Working on the grant Maxwell's demon in the real world: Experiments on the constraints governing information processing. Analysing partially observable information engines and working on their experimental implementation.  
   * Supervisor: Dr. Susanne Still
@@ -78,6 +78,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<!-- Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams -->
+* Graduate Student Representative for the Department of Physics & Astronomy at the University of Hawaii at Manoa (since March 2023)

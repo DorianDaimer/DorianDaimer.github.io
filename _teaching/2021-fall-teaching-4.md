@@ -8,4 +8,4 @@ date: 2021-08-01
 location: "Honolulu, Hawaii"
 ---
 
-This course consisted of in-person laboratory experiments as well as recitation sessions covering basic electric and magnetic phenomena. Students learned about circuits, Ohm's law, electric and magnetic fields, solenoids and oscillations in electric circuits.
+This course consisted of in-person laboratory experiments as well as recitation sessions covering basic electric and magnetic phenomena. Students learned about circuits, Ohm's law, electric and magnetic fields, capacitors, solenoids and oscillations in electric circuits.
