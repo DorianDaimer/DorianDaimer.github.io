@@ -87,8 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=HIHb_QEAAAAJ&hl=en&oi=ao"
-  email            : "dorian@daimer.net"
-  researchgate     :  "https://www.researchgate.net/profile/Dorian_Daimer2"
+  researchgate     : "https://www.researchgate.net/profile/Dorian_Daimer2"
   uri              :
   bitbucket        :
   codepen          :
@@ -115,6 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  email            : "dorian@daimer.net"
 
 
 # Reading Files
