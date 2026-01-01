@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dorian Daimer"
 title_separator          : "-"
 name                     : &name "Dorian Daimer"
-description              : &description "PhD Student in Physics at UH Manoa"
+description              : &description "Theoretical physicist based in Berlin"
 url                      : https://doriandaimer.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DorianDaimer.github.io"
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Dorian Daimer"
-  avatar           : "Profile2.jpg"
-  bio              : "PhD Student at UH Manoa, working on physical limits of information processing"
-  location         : "Honolulu, Hawaii"
-  employer         :
+  avatar           : "Profile_2025.jpg"
+  bio              : "PhD physicist interested in information processing, complex systems and quantum mechanics."
+  location         : "Berlin, Germany"
+  employer         : Robert Koch-Institut
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=HIHb_QEAAAAJ&hl=en&oi=ao"
   researchgate     : "https://www.researchgate.net/profile/Dorian_Daimer2"

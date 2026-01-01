@@ -8,4 +8,4 @@ date: 2020-08-24
 location: "Honolulu, Hawaii"
 ---
 
-This course was a virtual Laboratory course covering basic phenomena from Electromagnetism such as Ohm's and Kirchhoff's laws, RLC circuits and magnetic and electric fields. It was designed for Undergraduate students from various majors.   
+This course was a virtual Laboratory course covering basic phenomena from Electromagnetism such as electric and magnetic fields, Ohm's and Kirchhoff's laws and RLC circuits . It was designed for Undergraduate students from various majors.   
