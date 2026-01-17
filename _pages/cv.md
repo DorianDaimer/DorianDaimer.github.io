@@ -18,6 +18,11 @@ Education
 
 Work experience
 ======
+* Since January 2026: Data Scientist at the Robert Koch-Institut
+  * AI in Public Health 
+  * Computational Fluid Dynamics simulations using OpenFOAM
+  * Physics-inspired neural networks for multiphysics simulations
+
 * October 2025 - December 2025: Physics Expert for AI training at Mercor and SME careers
   * Designed and evaluated complex physics problem-solving tasks to assess AI model reasoning.
   * Analyzed AI-generated outputs for accuracy, logical consistency, and conceptual soundness.
